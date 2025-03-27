@@ -1,3 +1,11 @@
+Before you start
+
+@@@@@@ In your browser, navigate to copilot.microsoft.com. For this tutorial you need to use Copilot in the full browser, not in the browser sidebar.
+
+@@@@@@ Sign in to Copilot with your personal Microsoft Account (such as an outlook.com account).
+
+
+
 ######    AI for Everyone - A Deep Dive with Microsoft Copilot   #######
 
 1- Define your idea and set the context
